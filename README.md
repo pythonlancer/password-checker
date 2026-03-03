@@ -20,7 +20,8 @@ This project demonstrates secure API usage, hashing, and the k-Anonymity model t
 
 - `requests`
 - `hashlib`
-- `sys`
+- `string`
+- `re`
 - Have I Been Pwned Pwned Passwords API
 
 ---
